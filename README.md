@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 I'm Sunithagangula, an enthusiastic B.Tech student specializing in Artificial Intelligence. Welcome to my GitHub profile!
 
 🔭 I’m currently working on advancing my skills in AI and exploring its various applications.
